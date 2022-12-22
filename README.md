@@ -16,3 +16,4 @@
    2. create route for home screen
    3. create router for product screen
 7. Create Node.JS Server
+8. Fetch Products From Backend
