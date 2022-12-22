@@ -15,3 +15,4 @@
    1. npm i react-router-dom
    2. create route for home screen
    3. create router for product screen
+7. Create Node.JS Server
