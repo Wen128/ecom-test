@@ -17,3 +17,4 @@
    3. create router for product screen
 7. Create Node.JS Server
 8. Fetch Products From Backend
+9. UseReducer
