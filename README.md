@@ -19,3 +19,4 @@
 8. Fetch Products From Backend
 9. UseReducer
 10. Add bootstrap
+11. Create Product and Rating Component
