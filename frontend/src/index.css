@@ -20,6 +20,14 @@ main {
   color: black !important;
 }
 
+.btn-primary:hover {
+  background-color: #e1a901 !important;
+}
+
+.btn-primary .large-img {
+  max-width: 80%;
+}
+
 .products {
   display: flex;
   flex-wrap: wrap;

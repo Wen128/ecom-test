@@ -20,3 +20,4 @@
 9. UseReducer
 10. Add bootstrap
 11. Create Product and Rating Component
+12. Creeate Product Details Screen
