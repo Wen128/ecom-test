@@ -7,14 +7,7 @@
 3. Create React App
 4. Create Git Repository
 5. List Products
-   1. create products array
-   2. add product images
-   3. render products
-   4. style products
 6. Add routing
-   1. npm i react-router-dom
-   2. create route for home screen
-   3. create router for product screen
 7. Create Node.JS Server
 8. Fetch Products From Backend
 9. UseReducer
@@ -22,3 +15,4 @@
 11. Create Product and Rating Component
 12. Creeate Product Details Screen
 13. Loading and Message
+14. Implement Add to Cart
