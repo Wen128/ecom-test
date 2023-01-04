@@ -27,3 +27,4 @@
 23. Sign In Screen
 24. Shipping Address
 25. Create Sign Up Screen
+26. Payment Method Screen
