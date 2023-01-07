@@ -30,3 +30,4 @@
 26. Payment Method Screen
 27. Place Order Screen
 28. Place Order Action
+29. Order Screen
